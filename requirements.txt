@@ -1,0 +1,4 @@
+BeautifulSoup4==4.10.0
+ConfigParser==5.2.0
+requests==2.27.1
+chardet==4.0.0
